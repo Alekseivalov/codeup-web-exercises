@@ -2,4 +2,53 @@
 .fancy-header {
     color: purple;
     text-decoration: underline;
+    text-align: center;
+}
+h1,h2{
+    text-decoration: underline;
+}
+body{
+    background-color:silver;
+    font-style: oblique;
+    background-image: url("https://www.google.com/search?q=business+background+images&tbm=isch&sxsrf=APwXEdcQsAjVASx_1a8Od009h5PXztdS0g:1679949145486&source=lnms&sa=X&ved=2ahUKEwjvprqg-vz9AhU8rmoFHV8hCbIQ0pQJegQIBhAE&biw=750&bih=777&dpr=2#imgrc=m5QB0qHTlxutjM");
+}
+ol{
+    list-style: upper-alpha;
+}
+.first-list{
+    list-style: square;
+}
+.second-list{
+    list-style:circle;
+}
+.first-table{
+    font-size:25px;
+    padding: 25px;
+}
+.second-table{
+    font-size: 20px;
+    padding: 25px;
+}
+.third-table{
+    font-size: 20px;
+    padding: 25px;
+}
+.fourth-table{
+    font-size: 20px;
+    padding: 25px;
+}
+a{
+    color: yellow;
+}
+a:link{
+    color: aqua ;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: brown;
+}
+a:active{
+    color: aquamarine;
 }
